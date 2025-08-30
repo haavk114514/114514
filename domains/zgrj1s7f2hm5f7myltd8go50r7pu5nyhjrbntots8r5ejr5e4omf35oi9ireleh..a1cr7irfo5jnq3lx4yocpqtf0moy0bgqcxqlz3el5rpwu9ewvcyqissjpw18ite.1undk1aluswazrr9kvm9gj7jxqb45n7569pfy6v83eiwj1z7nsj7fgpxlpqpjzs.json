@@ -1,0 +1,10 @@
+{
+  "description": "一个非常长的域名",
+  "owner": {
+    "username": "haavk114514",
+    "email": ""
+  },
+  "record": {
+    "CNAME": "https://haavk114514.github.io/86fmzlvk638w1n7i49wd1ysqukjptzbfwetkfhrtb38fydp2a55ikwovrhnncy6.github.io/"
+  }
+}
